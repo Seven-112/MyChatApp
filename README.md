@@ -6,7 +6,7 @@
 
 ## Tech Stacks Used
 
-_React &amp; Spring Boot_
+_**React &amp; Spring Boot**_
 ### Front End 
 * React
 * React Hooks
