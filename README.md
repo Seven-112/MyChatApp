@@ -53,13 +53,6 @@
 
 React &amp; Spring Boot
 
-### Frontend
-
-* React
-* React Hooks
-* Redux
-* Tailwind CSS
-
 ### Backend
 
 #### Programming language & framework
