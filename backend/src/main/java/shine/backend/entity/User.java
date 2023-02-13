@@ -18,7 +18,17 @@ public class User {
     private String password;
 
     public User() {
+        super();
+    }
 
+    public User(Integer id, String userName, String mobileNo, String emailId, String city, String password) {
+        super();
+        this.id = id;
+        this.userName = userName;
+        this.mobileNo = mobileNo;
+        this.emailId = emailId;
+        this.city = city;
+        this.password = password;
     }
 
     public Integer getId() {
